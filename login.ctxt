@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=login
+comment1.params=
+comment1.target=login()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ login\n
+comment2.params=userN\ pass
+comment2.target=login(java.lang.String,\ java.lang.String)
+comment3.params=userN\ pass
+comment3.target=boolean\ loginPassword(java.lang.String,\ java.lang.String)
+numComments=4
